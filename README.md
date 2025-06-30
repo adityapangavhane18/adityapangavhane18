@@ -59,9 +59,9 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/aditya-pangavhane-803481217)
-- 📧 aditya.pangavhane@example.com
-- 🌐 [Portfolio Website](https://adityapangavhaneportfolio.netlify.app/) 
+- 💼 [LinkedIn](https://aditya-pangavhane-803481217)
+- 📧 adityapangavhane18@gmail.com
+- 🌐 [Portfolio](https://adityapangavhaneportfolio.netlify.app/) 
 
 ---
 
