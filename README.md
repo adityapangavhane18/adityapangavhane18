@@ -61,7 +61,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/aditya-pangavhane)
 - 📧 aditya.pangavhane@example.com
-- 🌐 [Portfolio Website](https://your-portfolio-link.com) *(optional)*
+- 🌐 [Portfolio Website](https://adityapangavhaneportfolio.netlify.app/) *(optional)*
 
 ---
 
