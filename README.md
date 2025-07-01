@@ -14,8 +14,8 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <strong>Data Science</strong></li>
-        <li>🌱 I’m currently learning <strong>Python libraries</strong>, <strong>Statistics</strong>, and <strong>GenAI</strong></li>
+        <li>🔭 I’m currently Exploring <strong>Machine Learning</strong></li>
+        <li>🌱 I’m currently learning <strong>Python libraries</strong>, <strong>Statistics</strong>, and <strong>NLP</strong></li>
         <li>💬 Ask me about <strong>Web Dev, Python, Django</strong></li>
         <li>🎯 Passionate about <strong>solving real-world problems using AI</strong></li>
       </ul>
