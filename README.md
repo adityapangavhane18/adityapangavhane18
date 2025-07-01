@@ -1,127 +1,21 @@
-# 👨‍💻 Aditya A. Pangavhane
+<h1 align="center">Hi 👋, I'm Aditya Anil Pangavhane</h1>
+<h3 align="center">Python Developer | ML Engineer | Data science | Data Analytics</h3>
 
-📍 Kopargaon, India  
-📧 adityapangavhane18@gmail.com  
-📱 +91-8080940024  
-🌐 [Portfolio](#) | [GitHub](https://github.com/adityapangavhane) | [LinkedIn](#)
+- 👨‍💻 All of my projects are available at [https://adityapangavhaneportfolio.netlify.app/](https://adityapangavhaneportfolio.netlify.app/)
 
----
+- 📫 How to reach me **adityapangavhane18@gmail.com**
 
-## 🧠 Profile
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/aditya-pangavhane-803481217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aditya-pangavhane-803481217" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/_aditya_pangavhane?igsh=mxjtdzl0annjehzwyw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_aditya_pangavhane?igsh=mxjtdzl0annjehzwyw==" height="30" width="40" /></a>
+</p>
 
-Results-driven **Python Developer & ML Engineer** with strong experience in data science, predictive modeling, and scalable AI solutions.  
-Adept at leveraging **Python, ML, Data Analytics, and GenAI** to build intelligent systems with real-world impact.  
-Known for solving complex problems through clean architecture and quantifiable outcomes.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapangavhane18&show_icons=true&locale=en&layout=compact" alt="adityapangavhane18" /></p>
 
-## 🎓 Education
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityapangavhane18&show_icons=true&locale=en" alt="adityapangavhane18" /></p>
 
-**SRES’s College of Engineering, Kopargaon (SPPU)**  
-_Bachelor of Engineering in Computer Engineering_ (2022–2026) — **CGPA: 8.6/10**  
-• Among top 10% of the batch  
-• Honours in AI-ML  
-
-**Sanjivani Junior College, Kopargaon** — HSC: **90.83%**  
-**Chh. Shivaji Vidyalaya, Kolpewadi** — SSC: **91.60%**
-
----
-
-## 🛠️ Skills
-
-### 💻 Languages & Frameworks:
-- 🐍 Python  
-- 💠 C++  
-- 🌐 JavaScript, HTML/CSS  
-- 🧰 SQL  
-- ⚡ Apache Spark  
-- 🐘 Apache Hadoop  
-
-### 🧰 Tools & Platforms:
-- 🖥️ VS Code  
-- 🧪 Google Colab  
-- 🐧 Linux  
-- 📊 Power BI, Tableau  
-- 💾 Git, GitHub  
-- 🧠 Cursor  
-- 🚀 Streamlit  
-- 📊 Excel  
-
-### 📚 Libraries & Technologies:
-- 🔢 NumPy, Pandas  
-- 🧠 Scikit-learn, TensorFlow  
-- 🗣️ NLTK  
-- 🧬 Computer Vision  
-- 🌐 Flask, Django  
-
----
-
-## 🎓 Certifications
-
-• Impetus Hackathon (‘25)  
-• Goethe Institute German A1  
-• Smart India Hackathon (Internal 2025)  
-• NPTEL  
-• Infosys Springboard  
-• Coursera  
-• Certified Software Programmer
-
----
-
-## 💼 Experience
-
-### 🧠 Talent Battle  
-**Trainee Intern (DSA & Aptitude)** – Dec 2024 – Feb 2025  
-• Strengthened core concepts of Data Structures and Algorithms.  
-• Participated in mock tests, coding drills, and aptitude exercises.
-
-### 💻 Godrej Infotech Ltd.  
-**Data Engineering Intern** – Sep 2024 – Nov 2024  
-• Used **Amazon S3** for managing data storage.  
-• Managed Hadoop ecosystem via **Amazon EMR** for distributed processing.  
-• Built real-time dashboards using **Streamlit** for business insights.
-
----
-
-## 🚀 Projects
-
-### 🔐 Stega-Sheild  
-_Secure Data Embedding System Using Steganography and AES Encryption_  
-• Implemented AES with Steganography for secure communication.  
-• Developed Python-based concealment system with PIL.  
-• Ensured tamper-proof, secure media transmission.
-
-### 💊 Drug Discovery Using ML and EDA  
-• Used EDA to discover patterns in chemical datasets.  
-• ML predicted drug activity, interactions, and toxicity.  
-• Improved speed and cost-efficiency of drug discovery.
-
-### 🐄 Smart Dairy Ledger  
-• Automated dairy operations: collection, payments, inventory.  
-• Applied ML to predict demand & identify anomalies.  
-• Reduced manual error and optimized operations.
-
----
-
-## 🏆 Achievements
-
-• Filed copyright for **Traffic Management & Accident Prediction System**  
-• Published **2 IEEE Research Papers**  
-• **India Skills 2023-24** – Qualified for Nasik Cluster Level  
-
----
-
-## 📊 GitHub Stats
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityapangavhane&show_icons=true&theme=radical&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapangavhane&layout=compact&theme=radical)
-
----
-
-## 📈 Contribution Graph
-
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=adityapangavhane&theme=dracula)
-
----
-
-> ⚡ Let's connect, collaborate, and code intelligent solutions!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityapangavhane18&" alt="adityapangavhane18" /></p>
