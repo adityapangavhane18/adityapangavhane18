@@ -1,10 +1,31 @@
 <h1 align="center">Hi 👋, I'm Aditya Anil Pangavhane</h1>
-<h3 align="center">Python Developer | ML Engineer | Data Science | Data Analytics</h3>
+<h3 align="center">Python Developer | Machine Learning | Data Science | Data Analytics</h3>
 
 <p align="center">
   👨‍💻 <a href="https://adityapangavhaneportfolio.netlify.app/" target="_blank"><strong>Portfolio</strong></a> &nbsp;|&nbsp; 
   📫 <strong>Email:</strong> adityapangavhane18@gmail.com
 </p>
+
+---
+
+<h3 align="left">🚀 About Me:</h3>
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <strong>Data Science</strong></li>
+        <li>🌱 I’m currently learning <strong>Python libraries</strong>, <strong>Statistics</strong>, and <strong>GenAI</strong></li>
+        <li>💬 Ask me about <strong>Web Dev, Python, Node.js</strong></li>
+        <li>📫 How to reach me: <a href="mailto:adityapangavhane18@gmail.com">adityapangavhane18@gmail.com</a></li>
+        <li>🎯 Passionate about <strong>solving real-world problems using AI</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/abb013d5-050d-4a39-b866-c1a5617d25c4.png" width="300px" alt="developer image"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -17,7 +38,7 @@
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">🤖 AI/ML & Data Science Libraries:</h3>
+<h3 align="left">🤖 Libraries:</h3>
 <p align="left">
   <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>&nbsp;&nbsp;
