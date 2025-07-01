@@ -16,13 +16,12 @@
       <ul>
         <li>🔭 I’m currently working on <strong>Data Science</strong></li>
         <li>🌱 I’m currently learning <strong>Python libraries</strong>, <strong>Statistics</strong>, and <strong>GenAI</strong></li>
-        <li>💬 Ask me about <strong>Web Dev, Python, Node.js</strong></li>
-        <li>📫 How to reach me: <a href="mailto:adityapangavhane18@gmail.com">adityapangavhane18@gmail.com</a></li>
+        <li>💬 Ask me about <strong>Web Dev, Python, Django</strong></li>
         <li>🎯 Passionate about <strong>solving real-world problems using AI</strong></li>
       </ul>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/abb013d5-050d-4a39-b866-c1a5617d25c4.png" alt="Developer illustration" width="300"/>
+
     </td>
   </tr>
 </table>
