@@ -20,9 +20,6 @@
         <li>🎯 Passionate about <strong>solving real-world problems using AI</strong></li>
       </ul>
     </td>
-    <td>
-
-    </td>
   </tr>
 </table>
 
