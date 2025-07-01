@@ -22,7 +22,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/abb013d5-050d-4a39-b866-c1a5617d25c4.png"/>
+      <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/abb013d5-050d-4a39-b866-c1a5617d25c4.png" alt="Developer illustration" width="300"/>
     </td>
   </tr>
 </table>
