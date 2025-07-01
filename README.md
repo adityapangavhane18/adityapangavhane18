@@ -1,68 +1,127 @@
-# 👋 Hi, I'm Aditya Pangavhane
+# 👨‍💻 Aditya A. Pangavhane
 
-🎓 A Computer Engineering student from Maharashtra, India, with a strong passion for **Machine Learning**, **Web Development**, and **IoT-based solutions**. I'm focused, self-disciplined, and always eager to learn and build innovative systems that solve real-world problems.
-
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing B.E. in Computer Engineering at Sanjivani College of Engineering
-- 📊 Interested in ML applications in **Education** and **Cybersecurity**
-- 💻 Developed multiple projects including:
-  - 📈 **CIA Report Generator**
-  - 📄 **Annual Report Generator**
-  - 🐄 **Dairy Farm Ledger System**
-  - 🌐 **Ratings & Reviews Web App**
-- 📚 Published a paper in IEEE on **Cyber Security with Machine Learning**
-- 🛠️ Building scalable full-stack apps and exploring **Cloud**, **Docker**, and **Distributed Systems**
+📍 Kopargaon, India  
+📧 adityapangavhane18@gmail.com  
+📱 +91-8080940024  
+🌐 [Portfolio](#) | [GitHub](https://github.com/adityapangavhane) | [LinkedIn](#)
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Profile
 
-### 💻 Languages:
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+Results-driven **Python Developer & ML Engineer** with strong experience in data science, predictive modeling, and scalable AI solutions.  
+Adept at leveraging **Python, ML, Data Analytics, and GenAI** to build intelligent systems with real-world impact.  
+Known for solving complex problems through clean architecture and quantifiable outcomes.
 
-### 🌐 Frontend:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+---
 
-### 🧠 Machine Learning:
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+## 🎓 Education
+
+**SRES’s College of Engineering, Kopargaon (SPPU)**  
+_Bachelor of Engineering in Computer Engineering_ (2022–2026) — **CGPA: 8.6/10**  
+• Among top 10% of the batch  
+• Honours in AI-ML  
+
+**Sanjivani Junior College, Kopargaon** — HSC: **90.83%**  
+**Chh. Shivaji Vidyalaya, Kolpewadi** — SSC: **91.60%**
+
+---
+
+## 🛠️ Skills
+
+### 💻 Languages & Frameworks:
+- 🐍 Python  
+- 💠 C++  
+- 🌐 JavaScript, HTML/CSS  
+- 🧰 SQL  
+- ⚡ Apache Spark  
+- 🐘 Apache Hadoop  
 
 ### 🧰 Tools & Platforms:
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- 🖥️ VS Code  
+- 🧪 Google Colab  
+- 🐧 Linux  
+- 📊 Power BI, Tableau  
+- 💾 Git, GitHub  
+- 🧠 Cursor  
+- 🚀 Streamlit  
+- 📊 Excel  
+
+### 📚 Libraries & Technologies:
+- 🔢 NumPy, Pandas  
+- 🧠 Scikit-learn, TensorFlow  
+- 🗣️ NLTK  
+- 🧬 Computer Vision  
+- 🌐 Flask, Django  
 
 ---
 
-## 📜 Certifications
+## 🎓 Certifications
 
-- Python for Data Science, AI & Development – IBM
-- Database Management Systems – NPTEL
-- Data Structures in C++
-- Introduction to Machine Learning
-- Linear Regression in Python
-- Git Essential Training
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://aditya-pangavhane-803481217)
-- 📧 adityapangavhane18@gmail.com
-- 🌐 [Portfolio](https://adityapangavhaneportfolio.netlify.app/) 
+• Impetus Hackathon (‘25)  
+• Goethe Institute German A1  
+• Smart India Hackathon (Internal 2025)  
+• NPTEL  
+• Infosys Springboard  
+• Coursera  
+• Certified Software Programmer
 
 ---
 
-⭐ *Thanks for visiting! Feel free to explore my repositories and connect with me for collaborations or projects.*
+## 💼 Experience
+
+### 🧠 Talent Battle  
+**Trainee Intern (DSA & Aptitude)** – Dec 2024 – Feb 2025  
+• Strengthened core concepts of Data Structures and Algorithms.  
+• Participated in mock tests, coding drills, and aptitude exercises.
+
+### 💻 Godrej Infotech Ltd.  
+**Data Engineering Intern** – Sep 2024 – Nov 2024  
+• Used **Amazon S3** for managing data storage.  
+• Managed Hadoop ecosystem via **Amazon EMR** for distributed processing.  
+• Built real-time dashboards using **Streamlit** for business insights.
+
+---
+
+## 🚀 Projects
+
+### 🔐 Stega-Sheild  
+_Secure Data Embedding System Using Steganography and AES Encryption_  
+• Implemented AES with Steganography for secure communication.  
+• Developed Python-based concealment system with PIL.  
+• Ensured tamper-proof, secure media transmission.
+
+### 💊 Drug Discovery Using ML and EDA  
+• Used EDA to discover patterns in chemical datasets.  
+• ML predicted drug activity, interactions, and toxicity.  
+• Improved speed and cost-efficiency of drug discovery.
+
+### 🐄 Smart Dairy Ledger  
+• Automated dairy operations: collection, payments, inventory.  
+• Applied ML to predict demand & identify anomalies.  
+• Reduced manual error and optimized operations.
+
+---
+
+## 🏆 Achievements
+
+• Filed copyright for **Traffic Management & Accident Prediction System**  
+• Published **2 IEEE Research Papers**  
+• **India Skills 2023-24** – Qualified for Nasik Cluster Level  
+
+---
+
+## 📊 GitHub Stats
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityapangavhane&show_icons=true&theme=radical&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapangavhane&layout=compact&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=adityapangavhane&theme=dracula)
+
+---
+
+> ⚡ Let's connect, collaborate, and code intelligent solutions!
