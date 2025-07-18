@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Anil Pangavhane</h1>
-<h3 align="center">Python Developer | Machine Learning | Data Science | Data Analytics</h3>
+<h3 align="center">Software Developer | Machine Learning | Data Science | Data Analytics</h3>
 
 <p align="center">
   👨‍💻 <a href="https://adityapangavhaneportfolio.netlify.app/" target="_blank"><strong>Portfolio</strong></a> &nbsp;|&nbsp; 
