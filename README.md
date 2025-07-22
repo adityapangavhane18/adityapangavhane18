@@ -6,7 +6,9 @@
   <a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a>
 </p>
 
----
+<table>
+<tr>
+<td>
 
 ### 🚀 About Me
 
@@ -15,9 +17,13 @@
 - 💬 Ask me about **Web Development, Python, Django**
 - 🎯 Passionate about solving real-world problems using **AI**
 
----
+</td>
+<td align="right">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" width="300"/>
+</td>
+</tr>
+</table>
 
-  
 ### 🧑‍💻 Programming Languages
 
 <p align="left">
@@ -28,12 +34,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/>
 </p>
 
----
-
-<div style="flex: 1; min-width: 300px; text-align: right;">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" width="300" />
-  </div> 
-  
 ### 🤖 Libraries
 
 <p align="left">
@@ -42,8 +42,6 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40"/>
 </p>
-
----
 
 ### 🧱 Frameworks & Dev Tools
 
@@ -54,8 +52,6 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"/>
 </p>
-
----
 
 ### 💾 Backend & Database Technologies
 
@@ -68,8 +64,6 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"/>
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -77,8 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adityapangavhane18&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapangavhane18&theme=radical" alt="GitHub Streak"/>
 </p>
-
----
 
 ### 🔗 Connect With Me
 
