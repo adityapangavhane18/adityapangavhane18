@@ -1,21 +1,25 @@
 <h1 align="center">Hi 👋, I'm Aditya Anil Pangavhane</h1>
-<h3 align="center">Software Developer | Machine Learning | Data Science | Data Analytics</h3>
+<h3 align="center">💻 Software Developer | 🤖 Machine Learning | 📊 Data Science | 📈 Data Analytics</h3>
 
 <p align="center">
   <a href="mailto:adityapangavhane18@gmail.com">📫 Email</a> |
   <a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a>
 </p>
 
+---
+
+### 🚀 About Me
+
 <table>
 <tr>
 <td>
-
-### 🚀 About Me
 
 - 🔭 I’m currently exploring **Machine Learning**
 - 🌱 Learning **Python libraries, Statistics, NLP**
 - 💬 Ask me about **Web Development, Python, Django**
 - 🎯 Passionate about solving real-world problems using **AI**
+- 🧑‍💻 Open Source Contributor 🤝
+- 📈 Interested in Data Analytics 📊
 
 </td>
 <td align="right">
@@ -23,6 +27,8 @@
 </td>
 </tr>
 </table>
+
+---
 
 ### 🧑‍💻 Programming Languages
 
@@ -34,6 +40,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"/>
 </p>
 
+---
+
 ### 🤖 Libraries
 
 <p align="left">
@@ -42,6 +50,8 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40"/>
 </p>
+
+---
 
 ### 🧱 Frameworks & Dev Tools
 
@@ -52,6 +62,8 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40"/>
 </p>
+
+---
 
 ### 💾 Backend & Database Technologies
 
@@ -64,6 +76,8 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"/>
 </p>
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -71,6 +85,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adityapangavhane18&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapangavhane18&theme=radical" alt="GitHub Streak"/>
 </p>
+
+---
 
 ### 🔗 Connect With Me
 
