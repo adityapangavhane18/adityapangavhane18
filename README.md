@@ -16,9 +16,7 @@
 - 🎯 Passionate about solving real-world problems using **AI**
 
 ---
-<div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" width="300" />
-  </div> 
+
   
 ### 🧑‍💻 Programming Languages
 
@@ -32,6 +30,10 @@
 
 ---
 
+<div style="flex: 1; min-width: 300px; text-align: right;">
+    <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" width="300" />
+  </div> 
+  
 ### 🤖 Libraries
 
 <p align="left">
