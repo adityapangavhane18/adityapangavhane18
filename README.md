@@ -23,8 +23,9 @@
 
 </td>
 <td align="right">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" width="300"/>
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="developer at work" width="300"/>
 </td>
+
 </tr>
 </table>
 
