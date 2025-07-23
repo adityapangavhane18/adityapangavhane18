@@ -10,20 +10,23 @@
 
 ### 🚀 About Me
 
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 280px; max-width: 600px;">
-    <ul>
-      <li>🔭 I’m currently exploring <strong>Machine Learning</strong></li>
-      <li>🌱 Learning <strong>Python libraries, Statistics, NLP</strong></li>
-      <li>💬 Ask me about <strong>Web Development, Python, Django</strong></li>
-      <li>🎯 Passionate about solving real-world problems using <strong>AI</strong></li>
-      <li>🧑‍💻 Open Source Contributor 🤝</li>
-    </ul>
-  </div>
-  <div style="flex: 1; min-width: 280px; text-align: center;">
-    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="developer at work" width="300" style="max-width: 100%;"/>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🧠 I’m currently exploring <strong>Machine Learning</strong></li>
+        <li>📚 Learning <strong>Python libraries, Statistics, NLP</strong></li>
+        <li>💬 Ask me about <strong>Web Development, Python, Django</strong></li>
+        <li>🎯 Passionate about solving real-world problems using <strong>AI</strong></li>
+        <li>🙋‍♂️ Open Source Contributor 🤝</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" width="300">
+    </td>
+  </tr>
+</table>
+
 
 
 ---
