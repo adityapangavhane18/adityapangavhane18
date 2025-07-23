@@ -10,8 +10,8 @@
 
 ### 🚀 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 280px; max-width: 600px;">
     <ul>
       <li>🔭 I’m currently exploring <strong>Machine Learning</strong></li>
       <li>🌱 Learning <strong>Python libraries, Statistics, NLP</strong></li>
@@ -20,10 +20,11 @@
       <li>🧑‍💻 Open Source Contributor 🤝</li>
     </ul>
   </div>
-  <div style="flex: 1; text-align: right; min-width: 300px;">
-    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="developer at work" width="300"/>
+  <div style="flex: 1; min-width: 280px; text-align: center;">
+    <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="developer at work" width="300" style="max-width: 100%;"/>
   </div>
 </div>
+
 
 ---
 
