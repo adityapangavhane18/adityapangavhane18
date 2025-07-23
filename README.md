@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:adityapangavhane18@gmail.com">📫 Email</a> |
-  <a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a>
+  <a href="https://adityapangavhaneportfolio.netlify.app/" target="_blank">🌐 Portfolio</a>
 </p>
 
 ---
@@ -19,7 +19,6 @@
 - 💬 Ask me about **Web Development, Python, Django**
 - 🎯 Passionate about solving real-world problems using **AI**
 - 🧑‍💻 Open Source Contributor 🤝
-- 📈 Interested in Data Analytics 📊
 
 </td>
 <td align="right">
@@ -96,7 +95,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/aditya_pangavhane" target="_blank">
+  <a href="https://www.instagram.com/_aditya_pangavhane?igsh=MXJtdzl0anNjeHZwYw==" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" width="40"/>
   </a>
 </p>
