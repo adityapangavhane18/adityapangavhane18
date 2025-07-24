@@ -15,7 +15,7 @@
 <td>
 
 - 🔭 I’m currently exploring *Machine Learning*
-- 🌱 Learning *Python libraries, Statistics, NLP*
+- 🌱 Learned *Python libraries, Statistics, NLP, Deep learning*
 - 💬 Ask me about *Web Development, Python, Django*
 - 🎯 Passionate about solving real-world problems using *AI*
 - 🧑‍💻 Open Source Contributor 🤝
