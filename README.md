@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Anil Pangavhane</h1>
-<h3 align="center">💻 Software Developer | 🤖 Machine Learning | 📊 Data Science | 📈 Data Analytics</h3>
+<h3 align="center">🛡️ Cyber-Security | 🤖 Machine Learning | 📊 Data Science | 📈 Data Analytics</h3>
 
 <p align="center">
   <a href="mailto:adityapangavhane18@gmail.com">📫 Email</a> |
